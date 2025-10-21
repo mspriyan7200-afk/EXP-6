@@ -1,4 +1,4 @@
-# EXP-6
+[beee ex 6.pdf](https://github.com/user-attachments/files/23014696/beee.ex.6.pdf)# EXP-6
 EXP No. :6 			CHARACTERISTICS M OF LVDT
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
@@ -9,6 +9,13 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM
+<img width="1096" height="630" alt="EX 6 NEGATIVE" src="https://github.com/user-attachments/assets/7032f71b-69de-4734-ab1e-15080172d408" />
+
+<img width="1101" height="640" alt="EX 6 POSITIVE" src="https://github.com/user-attachments/assets/f2e2db00-2f51-4116-871f-76c068b9ab28" />
+
+
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -18,6 +25,11 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+
+
+[beee ex 6.pdf](https://github.com/user-attachments/files/23014647/beee.ex.6.pdf)
+
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
